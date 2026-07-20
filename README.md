@@ -1,6 +1,8 @@
 # nature_say 
 
 A fun Rust implementation inspired by `cowsay` (linux), featuring nature-themed characters.
+[![License](https://img.shields.io/github/license/labus-weg/nature_say)](https://github.com/labus-weg/nature_say/blob/main/LICENSE)
+[![Top Language](https://img.shields.io/github/languages/top/labus-weg/nature_say)](https://github.com/labus-weg/nature_say)
 
 ## Features
 
