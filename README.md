@@ -18,3 +18,11 @@ Clone the repository:
 ```bash
 git clone https://github.com/labus-weg/nature_say.git
 cd nature_say
+```
+## Run:
+```cargo run```
+
+## Files
+- all_say.rs — main sayings/output logic
+- rosesay.rs — rose-themed sayings
+- nature_say/ — source files
